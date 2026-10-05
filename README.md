@@ -35,17 +35,14 @@ I enjoy building practical ML/AI applications and turning what I learn into real
 - Data Preprocessing
 - Feature Engineering
 - Model Evaluation
-- Logistic Regression
 
-### Deep Learning
-- Artificial Neural Networks
-- TensorFlow
-- Keras
 
 ### Libraries & Frameworks
 - Pandas
 - NumPy
 - Scikit-learn
+- TensorFlow
+- Keras
 - Flask
 - Streamlit
 - FastAPI
